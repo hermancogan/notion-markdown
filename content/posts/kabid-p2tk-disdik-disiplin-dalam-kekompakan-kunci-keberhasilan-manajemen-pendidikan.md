@@ -1,0 +1,14 @@
+---
+title: "Kabid P2TK Disdik, Disiplin dalam Kekompakan, Kunci Keberhasilan Manajemen Pendidikan"
+slug: kabid-p2tk-disdik-disiplin-dalam-kekompakan-kunci-keberhasilan-manajemen-pendidikan
+excerpt: "Tanjung Redeb - Disdik Berau, Kepala Bidang Pembinaan Pendidik dan Tenaga Kependidikan (P2TK), Drs. H Suardi “Disiplin dalam Kekompakan, kunci keberhasilan mana..."
+categories: ["KabarDikau"]
+last_edited_time: 2025-04-13T16:06:00.000Z
+---
+Tanjung Redeb - Disdik Berau, Kepala Bidang Pembinaan Pendidik dan Tenaga Kependidikan (P2TK), Drs. H Suardi “Disiplin dalam Kekompakan, kunci keberhasilan manajemen pendidikan pada satuan pendidikan (sekolah”.
+
+Hal tersebut disampaikan beliau pada apel rutin Senin (23/09/2024) dalam rangka mewakili kepala Dinas Pendidikan Kabupaten Berau yang sedang bertugas keluar daerah dalam rangka mengikuti penghargaaan Kaltim Education Award 2024 di Balikpapan. Apel pagi yang dihadiri oleh seluruh pejabat dan staff dinas pendidikan Kabupaten Berau, juga dihadiri oleh kepala sekolah dan GTK (Guru / Tenaga Kependidikan) dari sekolah kecamatan Kelay dan Talisayan.
+
+Dalam penyampaiannya Kabid P2TK, menekankan pentingnya kedisiplinan dalam mendukung manajemen pendidikan yang baik. Kedisiplinan ini juga perlu didukung dengan kekompakan antar individu pelaksana pendidikan di sekolah, baik guru, tenaga kependidikan dan kepala sekolah untuk menjalankan aturan sesuai perundangan yang berlaku. Kekompakan yang menyalahi aturan, tidak boleh dilaksanakan, karena akan mengacaukan tatanan sistem pendidikan yang berlaku.
+
+“Seorang pegawai wajib menjalankan tugasnya di mana pun ditempatkan, jangan sampai jarak menjadi halangan dalam upaya mencerdaskan anak anak di Kabupaten Berau!” tukas beliau dalam apel pagi yang berlangsung di halaman parkir kantor Dinas Pendidikan Kabupaten Berau yang dimulau pada pukul 07.35 hingga pukul 08.05.
