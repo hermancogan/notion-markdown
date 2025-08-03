@@ -1,47 +1,14 @@
-ewogICJ0aXRsZSI6ICJLZXBhbGEgRGluYXMgUGVuZGlkaWthbiBCdWthIEJp
-bXRlayBQZW5hdGF1c2FoYWFuIEJPU0RBIEplbmphbmcgU01QIiwKICAic2x1
-ZyI6ICJrZXBhbGEtZGluYXMtcGVuZGlkaWthbi1idWthLWJpbXRlay1wZW5h
-dGF1c2FoYWFuLWJvc2RhLWplbmphbmctc21wIiwKICAiZXhjZXJwdCI6ICIi
-LAogICJjYXRlZ29yaWVzIjogWwogICAgIkthYmFyRGlrYXUiLAogICAgIlBl
-bGF0aWhhbiIKICBdLAogICJjcmVhdGVkX3RpbWUiOiAiMjAyNS0wNy0zMVQw
-NzoyMDowMC4wMDBaIiwKICAibGFzdF9lZGl0ZWRfdGltZSI6ICIyMDI1LTA4
-LTAzVDA5OjM1OjAwLjAwMFoiLAogICJwdWJsaXNoRGF0ZSI6ICIyMDI1LTA4
-LTAzVDEyOjA4OjAzLjUzMFoiLAogICJ1cmwiOiAiaHR0cHM6Ly93d3cubm90
-aW9uLnNvL0tlcGFsYS1EaW5hcy1QZW5kaWRpa2FuLUJ1a2EtQmltdGVrLVBl
-bmF0YXVzYWhhYW4tQk9TREEtSmVuamFuZy1TTVAtMjQxZjJlODViNTkxODA2
-ZTgyOGJjZWY5N2M5ZjkyOTgiLAogICJjb250ZW50IjogIktlcGFsYSBEaW5h
-cyBQZW5kaWRpa2FuIEthYnVwYXRlbiBCZXJhdSwgSGouIE1hcmRpYXR1bCBJ
-ZGFsaXNhaCwgUy5QZC4sIE0uUGQsIHNlY2FyYSByZXNtaSBtZW1idWthIGtl
-Z2lhdGFuIEJpbWJpbmdhbiBUZWtuaXMgKEJpbXRlaykgUGVuYXRhdXNhaGFh
-biBEYW5hIEJhbnR1YW4gT3BlcmFzaW9uYWwgU2Vrb2xhaCBEYWVyYWggKEJP
-U0RBKSB1bnR1ayBqZW5qYW5nIFNNUCBzZS1LYWJ1cGF0ZW4gQmVyYXUgcGFk
-YSBTZWxhc2EsIDI5IEp1bGkgMjAyNS4gQWNhcmEgdGVyc2VidXQgZGlsYWtz
-YW5ha2FuIGRpIHJ1YW5nIHBlcnRlbXVhbiBVUFQgU1BORiBTS0IgS2FidXBh
-dGVuIEJlcmF1LlxuXG5CaW10ZWsgaW5pIGRpaWt1dGkgb2xlaCBwYXJhIGtl
-cGFsYSBzZWtvbGFoIGRhbiBiZW5kYWhhcmEgQk9TREEgZGFyaSBzZWx1cnVo
-IFNNUCBuZWdlcmkgZGFuIHN3YXN0YSBkaSBLYWJ1cGF0ZW4gQmVyYXUuIFR1
-anVhbm55YSBhZGFsYWggdW50dWsgbWVuaW5na2F0a2FuIHBlbWFoYW1hbiBk
-YW4ga2VtYW1wdWFuIHRla25pcyBwYXJhIHBlbmdlbG9sYSBCT1NEQSBkYWxh
-bSBtZW5nZWxvbGEgZGFuYSBzZWNhcmEgdGVwYXQsIHRyYW5zcGFyYW4sIGRh
-biBha3VudGFiZWwgc2VzdWFpIHJlZ3VsYXNpIHlhbmcgYmVybGFrdS5cblxu
-RGFsYW0gc2FtYnV0YW5ueWEsIEhqLiBNYXJkaWF0dWwgSWRhbGlzYWggbWVu
-ZWdhc2thbiBiYWh3YSBwZW5nZWxvbGFhbiBkYW5hIHBlbmRpZGlrYW4gaGFy
-dXMgZGlsYWt1a2FuIHNlY2FyYSBwcm9mZXNpb25hbCBkYW4gYmVydGFuZ2d1
-bmcgamF3YWIga2FyZW5hIG1lbnlhbmdrdXQga2ViZXJsYW5nc3VuZ2FuIGxh
-eWFuYW4gcGVuZGlkaWthbiBkaSBzZWtvbGFoLlxuXG5cIk1lbGFsdWkgQmlt
-dGVrIGluaSwga2FtaSBiZXJoYXJhcCBzZWx1cnVoIHBlbmdlbG9sYSBCT1NE
-QSBkaSBqZW5qYW5nIFNNUCBkYXBhdCBtZW1haGFtaSBtZWthbmlzbWUgcGVu
-YXRhdXNhaGFhbiBkZW5nYW4gYmFpaywgc2VoaW5nZ2EgdGlkYWsgYWRhIGxh
-Z2kga2VuZGFsYSBkYWxhbSBwZWxha3NhbmFhbiBkYW4gcGVsYXBvcmFuIGRp
-IGxhcGFuZ2FuLFwiIHVqYXIgYmVsaWF1LlxuXG5LZWdpYXRhbiBpbmkganVn
-YSBtZW5naGFkaXJrYW4gbmFyYXN1bWJlciBkYXJpIEJQSlMgS2V0ZW5hZ2Eg
-S2VyamFhbiwgIEluc3Bla3RvcmF0IGRhbiBCUEtBRCBLYWJ1cGF0ZW4gQmVy
-YXUgdW50dWsgbWVtYmVyaWthbiBwZW5kYW1waW5nYW4gdGVrbmlzIHNlcnRh
-IHBlbmplbGFzYW4gdGVya2FpdCByZWd1bGFzaSBwZW5nZWxvbGFhbiBrZXVh
-bmdhbiBkYWVyYWguXG5cbkRpbmFzIFBlbmRpZGlrYW4gS2FidXBhdGVuIEJl
-cmF1IGJlcmtvbWl0bWVuIHVudHVrIHRlcnVzIG1lbXBlcmt1YXQgdGF0YSBr
-ZWxvbGEgZGFuYSBwZW5kaWRpa2FuIGFnYXIgZGFwYXQgbWVuZG9yb25nIHBl
-bmluZ2thdGFuIG11dHUgbGF5YW5hbiBwZW5kaWRpa2FuIHNlY2FyYSBtZW55
-ZWx1cnVoIGRhbGFtIHJhbmdrYSBtZXd1anVka2FuIHR1bnRhcyBiZWxhamFy
-LlxuXG4oQ291cnRlc3N5OiBIZXJtYW4gQ29nYW4gJiBBZGUgU2FwdXRyYSki
-Cn0=
+{
+  "title": "Kepala Dinas Pendidikan Buka Bimtek Penatausahaan BOSDA Jenjang SMP",
+  "slug": "kepala-dinas-pendidikan-buka-bimtek-penatausahaan-bosda-jenjang-smp",
+  "excerpt": "",
+  "categories": [
+    "KabarDikau",
+    "Pelatihan"
+  ],
+  "created_time": "2025-07-31T07:20:00.000Z",
+  "last_edited_time": "2025-08-03T09:35:00.000Z",
+  "publishDate": "2025-08-03T13:46:37.757Z",
+  "url": "https://www.notion.so/Kepala-Dinas-Pendidikan-Buka-Bimtek-Penatausahaan-BOSDA-Jenjang-SMP-241f2e85b591806e828bcef97c9f9298",
+  "content": "<h3>Kepala Dinas Pendidikan Kabupaten Berau, Hj. Mardiatul Idalisah, S.Pd., M.Pd, secara resmi membuka kegiatan Bimbingan Teknis (Bimtek) Penatausahaan Dana Bantuan Operasional Sekolah Daerah (BOSDA) untuk jenjang SMP se-Kabupaten Berau pada Selasa, 29 Juli 2025. Acara tersebut dilaksanakan di ruang pertemuan UPT SPNF SKB Kabupaten Berau.</h3>\n<p>Bimtek ini diikuti oleh para kepala sekolah dan bendahara BOSDA dari seluruh SMP negeri dan swasta di Kabupaten Berau. Tujuannya adalah untuk meningkatkan pemahaman dan kemampuan teknis para pengelola BOSDA dalam mengelola dana secara tepat, transparan, dan akuntabel sesuai regulasi yang berlaku.</p>\n<p>Dalam sambutannya, Hj. Mardiatul Idalisah menegaskan bahwa pengelolaan dana pendidikan harus dilakukan secara profesional dan bertanggung jawab karena menyangkut keberlangsungan layanan pendidikan di sekolah.</p>\n<p>\"Melalui Bimtek ini, kami berharap seluruh pengelola BOSDA di jenjang SMP dapat memahami mekanisme penatausahaan dengan baik, sehingga tidak ada lagi kendala dalam pelaksanaan dan pelaporan di lapangan,\" ujar beliau.</p>\n<p>Kegiatan ini juga menghadirkan narasumber dari BPJS Ketenaga Kerjaan,  Inspektorat dan BPKAD Kabupaten Berau untuk memberikan pendampingan teknis serta penjelasan terkait regulasi pengelolaan keuangan daerah.</p>\n<p>Dinas Pendidikan Kabupaten Berau berkomitmen untuk terus memperkuat tata kelola dana pendidikan agar dapat mendorong peningkatan mutu layanan pendidikan secara menyeluruh dalam rangka mewujudkan tuntas belajar.</p>\n<p>(Courtessy: Herman Cogan & Ade Saputra)</p>"
+}
