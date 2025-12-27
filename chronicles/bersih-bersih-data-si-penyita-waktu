@@ -1,1 +1,1 @@
-chronicles/{{$json["content"]}}
+{{$json["content"]}}
