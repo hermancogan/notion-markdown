@@ -1,1 +1,26 @@
-<h3>Kalau disuruh mengolah data yang relatif besar, percayalah itu hanya mengambil sedikit dari waktumu! Ada hal pelik di awal mengolah data.</h3><h3>Bayangkan ada banyak data yang masuk ke pekerjaanmu, dan hampir semua itu tak memenuhi kaidah data berkualitas yang menjadi standarmu. Tentunya perlu penyesuaian lagi kan???</h3><p>Lalu bentuk penyesuaian yang kamu lakukan seperti apa? Mulai dari menyesuaikan format sesuai standar data, sampai menemukan typo yang memungkinkan menghasilkan data yang kacau.</p><p>Prinsip GIGO (Garbage In Garbage Out) sudah sangat familiar di kalangan pengolah data. Data berkarakteristik sampah, akan menghasilkan informasi sampah. Bisa sih dibersihkan dahulu, tapi hasilnya biasanya akan sedikit yang bisa diolah.</p><p>Jadi memastikan data berkualitas yang masuk adalah bentuk penjagaan terhadap informasi yang akan dihasilkan.</p><div>Bersih Bersih Data, Si Penyita Waktu</div>
+{
+  "metadata": {
+    "title": "Bersih Bersih Data, Si Penyita Waktu",
+    "page_id": "1b8f2e85-b591-809a-b3a1-f1ca191c4d81",
+    "slug": "bersih-bersih-data-si-penyita-waktu",
+    "excerpt": "Lalu bentuk penyesuaian yang kamu lakukan seperti apa? Mulai dari menyesuaikan format sesuai standar data, sampai menemukan typo yang memungkinkan menghasilkan data yang kacau.",
+    "categories": [
+      "Blog"
+    ],
+    "tags": [
+      "blog",
+      "Python"
+    ],
+    "image": "",
+    "created_time": "01.51 17-03-25",
+    "last_edited_time": "2025-12-27T14:38:00.000Z",
+    "url": "https://www.notion.so/bersih-bersih-data-si-penyita-waktu-1b8f2e85b591809ab3a1f1ca191c4d81",
+    "author": [
+      "Sultan"
+    ],
+    "contributor": [
+      "Goks"
+    ]
+  },
+  "content": "<h3>Kalau disuruh mengolah data yang relatif besar, percayalah itu hanya mengambil sedikit dari waktumu! Ada hal pelik di awal mengolah data.</h3><h3>Bayangkan ada banyak data yang masuk ke pekerjaanmu, dan hampir semua itu tak memenuhi kaidah data berkualitas yang menjadi standarmu. Tentunya perlu penyesuaian lagi kan???</h3><p>Lalu bentuk penyesuaian yang kamu lakukan seperti apa? Mulai dari menyesuaikan format sesuai standar data, sampai menemukan typo yang memungkinkan menghasilkan data yang kacau.</p><p>Prinsip GIGO (Garbage In Garbage Out) sudah sangat familiar di kalangan pengolah data. Data berkarakteristik sampah, akan menghasilkan informasi sampah. Bisa sih dibersihkan dahulu, tapi hasilnya biasanya akan sedikit yang bisa diolah.</p><p>Jadi memastikan data berkualitas yang masuk adalah bentuk penjagaan terhadap informasi yang akan dihasilkan.</p><div>Bersih Bersih Data, Si Penyita Waktu</div>"
+}
