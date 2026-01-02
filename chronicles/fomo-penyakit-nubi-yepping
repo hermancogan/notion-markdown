@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "title": "FOMO - Penyakit Nubi Yepping",
+    "page_id": "2dcf2e85-b591-80cb-8d65-cd8de5850f46",
+    "slug": "fomo-penyakit-nubi-yepping",
+    "excerpt": "Developer berpengalaman anti-hype karena mereka paham, ikut tren cuma buang waktu—seperti survei Stack Overflow 2024 yang tunjukkan Rust naik dari 9% ke 15% penggunaan, tapi 83% yang coba pengen lanju…",
+    "categories": [
+      "Blog"
+    ],
+    "tags": [
+      "Personal",
+      "Routines",
+      "Javascript",
+      "Statistic",
+      "Perspective",
+      "Life Balance"
+    ],
+    "image": "https://res.cloudinary.com/dcgl8yc3k/image/upload/v1767335139/kites_xyc9yf.png",
+    "created_time": "14.12 02-01-26",
+    "last_edited_time": "2026-01-02T06:27:00.000Z",
+    "url": "https://www.notion.so/fomo-penyakit-nubi-yepping-2dcf2e85b59180cb8d65cd8de5850f46",
+    "author": [
+      "Sultan"
+    ],
+    "contributor": [
+      "Goks"
+    ]
+  },
+  "content": "<h3>Bayangkan seorang developer senior yang pagi-pagi sudah asyik ngoding di VS Code, cuek bebek sama timeline Twitter penuh hype Rust atau Go terbaru. Sementara seorang newbie fresh graduate, scroll-scroll sambil gelisah: \"Wah, Rust performanya gila, harus belajar nih biar flexing di grup IT!\" Developer senior? Dia bahkan lupa password medsosnya.</h3><img src=\"https://res.cloudinary.com/dcgl8yc3k/image/upload/v1767335139/kites_xyc9yf.png\" alt=\"\" style=\"max-width:100%;\" /><h2>FOMO yang Bikin Burnout</h2><p>Developer berpengalaman anti-hype karena mereka paham, ikut tren cuma buang waktu—seperti survei Stack Overflow 2024 yang tunjukkan Rust naik dari 9% ke 15% penggunaan, tapi 83% yang coba pengen lanjut, sisanya? Mungkin newbie yang FOMO doang.  Penelitian di DEV Community ungkap FOMO coding bikin developer stuck tutorial hell, anxiety naik 40% gara-gara takut ketinggalan, padahal pro lebih banyak fokus satu stack: \"Kenapa ganti kalau yang lama udah solve masalah?\" Newbie ? Sok pilih Rust demi \"performa tinggi tanpa garbage collector\", padahal proyeknya web sederhana—hanya flexing, bukan value.  Lucunya, Rust memang menghemat memori lebih baik dari C++, tapi waktu kompilasinya bikin pemula nangis darah.</p><h2>Naik Gunung Hype</h2><p>Seorang senior developer biasanya sih dulu juga FOMO: coba Elixir, Haskell, Zig—semua numpuk di laptop, tak kepake. Ujung-ujungnya? Deadline ketat, tapi dia buang 2 minggu belajar Rust gara-gara tweet viral. \"Kayak naik gunung sambil bawa ransel penuh gadget hype, capek duluan sebelum puncak,\" gumamnya sambil ketawa kecut. Anak nubi? Masih di lereng awal, ikut webinar \"Rust for Beginners\" tiap malam, tapi kode pertamanya malah error borrow checker.\" Statistik TIOBE dan PYPL 2025 bilang JavaScript masih raja (62% developer global), Python nomor dua—bukan Rust yang newbie kejar demi konten Reels.</p><h2>Bangun Habit Anti-FOMO</h2><p>Dalam buku Atomic Habits karya James Clear, bestseller self-care yang best seller jutaan eksemplar: \"Every action you take is a vote for the type of person you wish to become.\"  Jangan vote jadi \"Rust chaser\" kalau belum kuasai Python dasar. Mulai kecil: pilih 1-2 bahasa match proyek (JavaScript untuk web, Python untuk data), abaikan hype. Clear bilang, \"The greatest threat to success is not failure but boredom\"—hindari novelty chase, bangun identity \"problem solver\", bukan \"hype follower\". Pro tip : matiin notif medsos, fokus 80/20 rule—80% hasil dari 20% skill solid.</p><h2>Master Sejati, Bukan Flexer</h2><p>Begitu sering kita dengar banyak senior developer deliver proyek on-time, promosi senior dev, akun medsosnya? Masih zero post. Nubi? sering kita mendengar terkadang mereka buat web dengan bahasa pemrograman yang umum seperti Javascript tapi bisa live ke prodiction dengan cepat, grup IT bilang \"Mantap bro!\" bukan \"keren Rust-nya\". Data jurnal tunjuk FOMO turun 30% kalau fokus habit, produktivitas naik—kamu pilih mana, flexing atau winning?</p>"
+}
