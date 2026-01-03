@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "title": "Ketika Plat Merah Ikut Liburan: Refleksi Etika Kerja ala Software Developer",
+    "page_id": "2ddf2e85-b591-8059-8780-e4169eb109f8",
+    "slug": "ketika-plat-merah-ikut-liburan-refleksi-etika-kerja-ala-software-developer",
+    "excerpt": "Sebagai software developer, pengamatan ini seperti menemukan bug di kode produksi: pakai resource tak sesuai purpose. Server kantor buat eksperimen pribadi? Langsung panic notification dari DevOps. Di…",
+    "categories": [
+      "Blog"
+    ],
+    "tags": [
+      "blog",
+      "Life Balance",
+      "Perspective",
+      "Data"
+    ],
+    "image": "https://res.cloudinary.com/dcgl8yc3k/image/upload/v1767433096/sketch-mobil_sd14gm.jpg",
+    "created_time": "17.31 03-01-26",
+    "last_edited_time": "2026-01-03T09:42:00.000Z",
+    "url": "https://www.notion.so/ketika-plat-merah-ikut-liburan-refleksi-etika-kerja-ala-software-developer-2ddf2e85b59180598780e4169eb109f8",
+    "author": [
+      "Sultan"
+    ],
+    "contributor": [
+      "Goks"
+    ]
+  },
+  "content": "<h3>Liburan kemarin terasa seperti load testing jalan raya dengan mobil plat merah yang hilir-mudik ke pantai. Kendaraan dinas negara kok malah jadi mobil keluarga? Saya coba berbaik sangka — mungkin tugas resmi di wisata. Tapi pekerjaan apa yang dikerjakan di hari libur, kalau bukan scrolling Instagram sambil pura-pura meeting?</h3><img src=\"https://res.cloudinary.com/dcgl8yc3k/image/upload/v1767433096/sketch-mobil_sd14gm.jpg\" alt=\"\" style=\"max-width:100%;\" /><p>Sebagai software developer, pengamatan ini seperti menemukan bug di kode produksi: pakai resource tak sesuai purpose. Server kantor buat eksperimen pribadi? Langsung panic notification dari DevOps. Di kehidupan nyata, bug etika ini sering lolos tanpa error log.</p><h2>Bug Etika di Sistem Pribadi</h2><p>Studi Journal of Business Ethics (2021) ungkap bahwa pelanggaran etika kecil — seperti pakai fasilitas kerja untuk urusan pribadi — menciptakan efek domino pada integritas dan kepercayaan tim. Semakin sering dibiarkan, sistem diri jadi tak stabil, mirip aplikasi yang crash karena memory leak halus.[ dari pencarian sebelumnya]</p><p>Di dunia developer, integritas adalah core framework. Tanpa itu, skill coding sehebat apa pun bisa gagal deployment. Penelitian Frontiers in Psychology (2021) tambah bukti: karyawan dengan self-control tinggi lebih sering bantu tim dan jarang langgar batas, tingkatkan kepuasan kerja secara keseluruhan.</p><h2>Life Debugging ala Atomic Habits</h2><p>James Clear dalam Atomic Habits bilang perubahan besar lahir dari kebiasaan kecil konsisten. Etika kerja pun sama: jaga batas waktu kantor vs pribadi, bahkan saat tak ada yang lihat. Contoh bug sehari-hari developer:</p><ul><li>Energi coding habis buat drama pribadi.</li><li>Jam kerja inti dipakai scroll TikTok.</li><li>Komitmen sprint diganti \"nanti saja\".</li></ul><p>Refleksi plat merah ini reminder: refactor life secara berkala, seperti code review rutin.</p><h2>Self-Compassion: Lembut Tapi Tegas</h2><p>Upgrade diri tak lengkap tanpa belas kasih pada diri sendiri. Buku Self-Compassion milik Kristin Neff — bestseller self-care — tunjukkan bahwa orang yang baik pada diri sendiri justru lebih termotivasi perbaiki kesalahan, bukan defensif karena malu. Mereka akui bug, perbaiki, lalu iterasi maju.shortform+1</p><p>Penelitian Frontiers in Psychology (2023) konfirmasi: self-discipline tinggi kurangi procrastination via motivasi otonom, bikin produktivitas kantor naik signifikan. Jadi, saat sadar \"Eh, aku juga sering salah prioritas,\" respons sehat: terima, debug, improve.</p><h2>Dari Plat Merah ke Personal Upgrade</h2><p>Momen plat merah di pantai jadi cermin: kalau fasilitas negara bisa nyasar, resource pribadi kita pun rawan. Tapi kita bisa kontrol \"plat merah\" versi developer — kepercayaan, fokus, profesionalisme.</p><h2>Call to Action: Refactor Diri Sekarang</h2><p>Mulai langkah kecil minggu ini:</p><ul><li>Audit log pribadi: Catat berapa kali minggu ini resource kerja dipakai urusan rumah. Jujur seperti baca stack trace.</li><li>Pasang guardrails: No sosmed jam 9-12 kerja, no pekerjaan malam kecuali darurat. Konsistensi ini turunkan risiko drift etika.</li><li>Self-compassion drill: Gagal? Akui, maafkan diri, tambah unit test kebiasaan baru. Hasilnya: performa kerja naik, stres turun.</li></ul><p>Pada akhirnya, plat merah boleh liburan ke pantai — asal plat abu-abu kita tetap on track ke deadline. Kalau tidak, ya sudah: besok jadi freelancer, platnya bebas warnanya, tapi bug etikanya tetep nge-hack karir sendiri. Satir ending: Mending bawa laptop coding di pantai, daripada plat merah bawa keluarga sambil pura-pura urgent task. Bug tetap ada, tapi setidaknya commit-nya ke GitHub, bukan ke pinggir jalan!</p>"
+}
