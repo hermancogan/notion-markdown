@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "title": "Ketika Waktu Pribadi Disandera Pekerjaan: Refleksi Seorang Developer",
+    "page_id": "2def2e85-b591-80ed-b8dc-d457f235b3ac",
+    "slug": "ketika-waktu-pribadi-disandera-pekerjaan-refleksi-seorang-developer",
+    "excerpt": "Kemarin kita sempat bahas soal penyalahgunaan fasilitas kantor untuk kepentingan pribadi — sekarang, mari kita balik layarnya: bagaimana kalau justru waktu pribadi kita yang “dirampas” oleh pekerjaan?",
+    "categories": [
+      "Blog"
+    ],
+    "tags": [
+      "Coding",
+      "Life Balance",
+      "Perspective",
+      "Personal"
+    ],
+    "image": "https://res.cloudinary.com/dcgl8yc3k/image/upload/v1767539365/clock_qcfqyc.png",
+    "created_time": "23.02 04-01-26",
+    "last_edited_time": "2026-01-04T15:11:00.000Z",
+    "url": "https://www.notion.so/ketika-waktu-pribadi-disandera-pekerjaan-refleksi-seorang-developer-2def2e85b59180edb8dcd457f235b3ac",
+    "author": [
+      "Sultan"
+    ],
+    "contributor": [
+      "Goks"
+    ]
+  },
+  "content": "<h3>Sebagai seorang software developer, kamu pasti nggak asing dengan istilah “cuma nambah satu commit lagi” yang ajaibnya bisa berubah jadi “loh, kok udah jam 2 pagi?”.</h3><p>Kemarin kita sempat bahas soal penyalahgunaan fasilitas kantor untuk kepentingan pribadi — sekarang, mari kita balik layarnya: bagaimana kalau justru waktu pribadi kita yang “dirampas” oleh pekerjaan?</p><img src=\"https://res.cloudinary.com/dcgl8yc3k/image/upload/v1767539365/clock_qcfqyc.png\" alt=\"\" style=\"max-width:100%;\" /><h2>Ketika Lembur Bukan Lagi Bukti Dedikasi</h2><p>Di dunia developer, lembur sering dibungkus dengan glorifikasi: “biasanya jam 2 pagi ide cemerlang muncul.”</p><p>Padahal, menurut penelitian Harvard Business Review (2019), produktivitas seseorang menurun hingga 40% setelah bekerja lebih dari 50 jam per minggu. Artinya, makin lama kamu lembur, makin besar kemungkinan kamu nulis bug yang akan kamu kutuk sendiri besok pagi.</p><p>Lembur tanpa arah yang jelas bukan lagi soal komitmen. Itu tanda kalau batas antara “kerja” dan “hidup” mulai kabur.</p><p>Daniel Goleman, dalam bukunya Emotional Intelligence, menulis bahwa keseimbangan emosional adalah fondasi produktivitas jangka panjang — dan sayangnya, tidak ada pull request untuk memperbaikinya kalau sudah rusak.</p><h2>Rapat Tak Berujung di Meja Makan</h2><p>Pernah nggak, lagi makan bareng keluarga, lalu tiba-tiba kepikiran “API ini harusnya asynchronous deh” dan ujung-ujungnya buka laptop?</p><p>Selamat datang di era digital blur — di mana notifikasi kerja dan notifikasi diskon makanan datang dengan kekuatan mengganggu yang sama.</p><p>Sebuah survei Gallup (2022) menunjukkan, 53% pekerja remote mengaku sulit memutus batas antara waktu kerja dan waktu pribadi. Akibatnya, muncul stres kronis ringan yang sering diabaikan. Kecil sih awalnya — tapi kalau dibiarkan, bisa bikin burnout yang rasanya seperti infinite loop di kehidupan nyata.</p><h2>Belajar dari Dunia Koding</h2><p>Kalau dipikir-pikir, hidup ini mirip dengan menulis kode juga.</p><p>Kita butuh waktu untuk debugging pikiran, refactoring tujuan, dan kadang harus menjalankan unit test terhadap rutinitas harian.</p><p>Waktu pribadi dan keluarga adalah “runtime environment” untuk keseimbangan mental kita. Kalau itu rusak, jangan kaget kalau system error muncul dalam bentuk kelelahan, kehilangan motivasi, atau bahkan konflik dengan rekan kerja.</p><h2>3 Tips Menjaga Keseimbangan Hidup Ala Developer</h2><ol><li>Gunakan prinsip shutdown ritual.</li><li>Pisahkan konteks digital.</li><li>Lakukan mindful debugging.</li></ol><h2>Jangan Biarkan Hidup Jadi Bug Fix yang Tak Pernah Selesai</h2><p>Jadi, sebelum kamu tergoda untuk “sekalian ngerjain fitur kecil” di malam minggu, ingat: komputer bisa sleep mode, manusia juga perlu rest mode.</p><p>Karena pada akhirnya, produktivitas bukan tentang berapa lama kita menatap layar — tapi seberapa jernih pikiran kita saat mulai mengetik baris pertama kode di pagi hari.</p>"
+}
