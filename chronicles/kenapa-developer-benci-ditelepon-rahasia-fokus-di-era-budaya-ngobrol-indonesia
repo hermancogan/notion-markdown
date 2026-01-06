@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "title": "Kenapa Developer Benci Ditelepon? Rahasia Fokus di Era Budaya Ngobrol Indonesia",
+    "page_id": "2e0f2e85-b591-80a0-9f9c-f2ecbfb8baeb",
+    "slug": "kenapa-developer-benci-ditelepon-rahasia-fokus-di-era-budaya-ngobrol-indonesia",
+    "excerpt": "Deg! Jantung langsung berhenti sejenak. Ini lebih menegangkan dari merge conflict Jumat sore.",
+    "categories": [
+      "Blog"
+    ],
+    "tags": [
+      "Coding",
+      "Data",
+      "Perspective",
+      "Life Balance"
+    ],
+    "image": "https://res.cloudinary.com/dcgl8yc3k/image/upload/v1767694729/cloud-skecth_yxjlda.jpg",
+    "created_time": "18.10 06-01-26",
+    "last_edited_time": "2026-01-06T10:19:00.000Z",
+    "url": "https://www.notion.so/kenapa-developer-benci-ditelepon-rahasia-fokus-di-era-budaya-ngobrol-indonesia-2e0f2e85b59180a09f9cf2ecbfb8baeb",
+    "author": [
+      "Sultan"
+    ],
+    "contributor": [
+      "Goks"
+    ]
+  },
+  "content": "<h3>Bayangkan ini: kamu baru saja menemukan solusi elegan untuk bug yang sudah dua jam bikin pusing. Dengan hati bahagia, kamu mengetik npm run build... lalu tring! notifikasi muncul — “Video call dari nomor tak dikenal.”</h3><p>Deg! Jantung langsung berhenti sejenak. Ini lebih menegangkan dari merge conflict Jumat sore.</p><img src=\"https://res.cloudinary.com/dcgl8yc3k/image/upload/v1767694729/cloud-skecth_yxjlda.jpg\" alt=\"\" style=\"max-width:100%;\" /><p>Sebagai software developer, insting pertama kita biasanya bukan “angkat dulu ah, siapa tahu penting”, tapi “kok nggak chat aja sih?”. Dunia digital sudah memberi kita begitu banyak cara berkomunikasi tanpa suara, tapi masih saja banyak yang memilih menelepon — bahkan untuk hal yang bisa selesai dengan satu pesan teks.</p><h2>Fenomena Nasional: Ngobrol Adalah Segalanya</h2><p>Fenomena ini bukan hal sepele. Dalam survei Global Web Index (2024), ditemukan bahwa orang Indonesia termasuk yang paling suka interaksi verbal di Asia, dengan 71% responden mengaku lebih nyaman ngobrol langsung ketimbang kirim pesan.</p><p>Mungkin itulah sebabnya kenapa, saking sukanya ngobrol, ketika ada tulisan besar-besar “JALAN DITUTUP” pun masih banyak yang nyamperin petugas dan bertanya polos, “Pak, ini beneran ditutup, ya?”</p><p>Yang lebih tragis: datang jauh-jauh, ngobrol panjang lebar 30 menit, ternyata solusinya cuma sentuhan kecil — fix button yang 2 menit selesai, atau config satu baris. Waktu itu cukup buat bikin function sederhana (atau bahkan kompleks kayak API endpoint penuh). Developer tau rasanya: \"Kenapa nggak bilang dari awal sih?\"  atau “Kenapa gak chat aja sih?”.</p><p>Ngobrol itu memang bagian dari DNA sosial kita — hangat, akrab, dan membuat koneksi terasa manusiawi. Tapi bagi seorang developer yang hidup dalam dunia clean code dan stack overflow, kebiasaan ini bisa terasa seperti runtime error: tidak fatal, tapi tetap bikin jengkel.</p><h2>Telepon: Musuh Abadi Mode Fokus</h2><p>Masalahnya, developer punya ritual fokus yang sangat rapuh. Sekali gangguan masuk, terutama lewat panggilan, flow state bisa hancur total.</p><p>Penelitian dari Gloria Mark, profesor di University of California, menunjukkan bahwa butuh rata-rata 23 menit untuk kembali fokus setelah satu kali gangguan kecil .</p><p>Jadi kalau kamu ditelepon lima menit hanya untuk mendengar “Lagi sibuk, Bro?”, sebenarnya kamu kehilangan setengah jam energi mental yang tidak bisa di-git revert.</p><h2>Di Balik Kebiasaan Menelepon: Ada Empati (dan Sedikit Drama)</h2><p>Namun sebelum kita men-judge kebiasaan menelepon itu mengganggu, perlu juga diingat: ada sisi empatik khas budaya Indonesia di baliknya.</p><p>Dalam budaya komunikasi kolektif, berbicara langsung dianggap lebih tulus dibanding teks. Kadang, niatnya bukan ingin merepotkan, tapi sekadar ingin memastikan semuanya beres dengan sentuhan manusia.</p><p>Rasanya mirip dengan tetangga yang bilang, “Nggak enak kalau cuma chat, pengin ngobrol langsung aja.” Sayangnya, bagi sebagian developer, ngobrol langsung sering kali berarti interupsi langsung ke RAM otak.</p><h2>Self-Growth ala \"Deep Work\": Lindungi Fokusmu</h2><p>Cal Newport dalam buku bestseller \"Deep Work\" menyebut bahwa di era distraksi digital, kemampuan fokus mendalam adalah superpower paling langka. Ia menekankan bahwa melindungi waktu fokus bukanlah kemewahan, tapi keharusan untuk produktivitas tinggi.</p><p>Beberapa cara simpel yang bisa developer terapkan:</p><ul><li>Jadwalkan \"Deep Work Block\" (90 menit tanpa gangguan) dan beri tahu orang sekitar.</li><li>Gunakan script sopan: “Boleh kirim pesannya via teks aja? Lagi coding nih, takut salah jawab.”</li><li>Aktifkan Do Not Disturb dengan pengecualian untuk kontak darurat saja.</li><li>Latih jeda sebelum bereaksi. Tidak langsung mengangkat telepon bukan berarti tidak peduli — hanya sedang menjaga diri tetap waras.</li><li>Hormati gaya komunikasi orang lain, tapi tetap jelaskan preferensi dengan jujur. Itu juga bentuk self-respect.</li></ul><h2>Pada Akhirnya…</h2><p>Menjadi software developer di Indonesia artinya hidup di tengah paradoks: kita membangun dunia digital yang efisien, tapi tinggal di masyarakat yang gemar bertanya bahkan ketika jawabannya sudah ada di papan pengumuman. Lucu, tapi juga indah — karena itulah manusiawi.</p><p>Jadi, kalau besok ada yang menelepon saat kamu sedang debugging, tarik napas dulu. Anggap itu latihan version control untuk kesabaran dan empati.</p><p>Karena pada akhirnya, self-growth bukan cuma soal belajar framework baru, tapi juga tentang memperbarui firmware dalam diri — supaya tetap berfungsi baik di dunia yang ramai dengan telepon (dan notifikasi yang tak berujung).</p>"
+}
