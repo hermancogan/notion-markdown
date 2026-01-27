@@ -5,7 +5,7 @@ excerpt: "BAGIAN 1: MENGAPA HARUS BELAJAR LINUX? 1.1 Pengantar: Linux untuk Prog
 categories: ["Linux", "Wiki"]
 tags: []
 created_time: "20.29 27-01-26"
-last_edited_time: "2026-01-27T12:59:00.000Z"
+last_edited_time: "2026-01-27T13:01:00.000Z"
 url: "https://www.notion.so/panduan-lengkap-belajar-linux-wsl-dan-administrasi-server-2f5f2e85b5918122a173ce7e060f11eb"
 author: ["Sultan"]
 contributor: ["Goks"]
@@ -271,7 +271,7 @@ Bayangkan WSL sebagai “Linux dalam botol” yang ada di dalam Windows. Anda bi
 
 ### 3.2 Perbedaan WSL 1, WSL 2, dan Native Linux
 
-### WSL 1: Compatibility Layer Approach
+### *→ *WSL 1: Compatibility Layer Approach
 
 - **Arsitektur:** Menerjemahkan Linux system calls menjadi Windows system calls
 - **Kernel:** Tidak ada kernel Linux asli
@@ -282,7 +282,7 @@ Bayangkan WSL sebagai “Linux dalam botol” yang ada di dalam Windows. Anda bi
 - **Resource Usage:** Minimal
 - **Systemd:** Tidak support
 - **Best for:** Quick Linux access, Windows file manipulation
-### WSL 2: Virtual Machine Approach
+### *→*WSL 2: Virtual Machine Approach
 
 - **Arsitektur:** Real Linux kernel di dalam lightweight virtual machine (Hyper-V)
 - **Kernel:** Full Linux kernel yang dioptimalkan
@@ -293,7 +293,7 @@ Bayangkan WSL sebagai “Linux dalam botol” yang ada di dalam Windows. Anda bi
 - **Resource Usage:** Moderate (VM membutuhkan RAM)
 - **Systemd:** Support (sejak build terbaru)
 - **Best for:** Development, containerization, full Linux compatibility
-### Native Linux: Full Operating System
+### *→*Native Linux: Full Operating System
 
 - **Arsitektur:** Bare metal kernel dengan full control
 - **Kernel:** Native Linux kernel
