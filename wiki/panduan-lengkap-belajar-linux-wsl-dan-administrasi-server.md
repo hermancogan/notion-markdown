@@ -17,13 +17,19 @@ contributor: ["Goks"]
 
 Linux telah menjadi fondasi industri teknologi modern. Berbeda dengan hanya memahami bahasa pemrograman, pemahaman mendalam tentang Linux memberikan keunggulan kompetitif yang signifikan bagi setiap programmer profesional.
 
-**Statistik Penting:** <br> - Sekitar 70% server internet di dunia menjalankan Linux <br> - Mayoritas layanan cloud (AWS, Google Cloud, Azure) berbasis Linux <br> - Lebih dari 90% perangkat mobile menggunakan kernel Linux (Android)
+**Statistik Penting:**  
+- Sekitar 70% server internet di dunia menjalankan Linux  
+- Mayoritas layanan cloud (AWS, Google Cloud, Azure) berbasis Linux  
+- Lebih dari 90% perangkat mobile menggunakan kernel Linux (Android)
 
 ### 1.2 Lima Alasan Utama Programmer Harus Belajar Linux
 
 ### 1. **Gratis dan Open Source**
 
-Linux dapat diunduh dan digunakan tanpa biaya lisensi. Lebih penting lagi, kode sumbernya terbuka untuk umum, memungkinkan programmer: <br> - Mengakses dan memahami cara kerja sistem operasi secara mendalam <br> - Memodifikasi dan menyesuaikan sistem sesuai kebutuhan <br> - Berkontribusi pada proyek open source yang akan memperkaya portfolio
+Linux dapat diunduh dan digunakan tanpa biaya lisensi. Lebih penting lagi, kode sumbernya terbuka untuk umum, memungkinkan programmer:  
+- Mengakses dan memahami cara kerja sistem operasi secara mendalam  
+- Memodifikasi dan menyesuaikan sistem sesuai kebutuhan  
+- Berkontribusi pada proyek open source yang akan memperkaya portfolio
 
 **Keuntungan Finansial:** Tidak perlu mengeluarkan biaya lisensi mahal seperti Windows atau macOS. Budget dapat dialihkan ke keperluan development lain.
 
@@ -31,7 +37,10 @@ Linux dapat diunduh dan digunakan tanpa biaya lisensi. Lebih penting lagi, kode 
 
 Salah satu tantangan terbesar dalam software development adalah perbedaan antara environment development (lokal) dan environment production (server).
 
-**Realitas Industri:** <br> - Mayoritas server production berbasis Linux <br> - Ketika mengembangkan aplikasi di Linux secara lokal, deployment ke server menjadi seamless <br> - Meminimalkan error seperti “tapi di komputerku work!” syndrome
+**Realitas Industri:**  
+- Mayoritas server production berbasis Linux  
+- Ketika mengembangkan aplikasi di Linux secara lokal, deployment ke server menjadi seamless  
+- Meminimalkan error seperti “tapi di komputerku work!” syndrome
 
 **Workflow yang Efisien:**
 
@@ -43,25 +52,50 @@ Reduced bugs, faster time-to-market
 
 ### 3. **Performa dan Resource Management**
 
-Linux dikenal sebagai sistem operasi yang sangat ringan dan efisien. Karakteristik ini penting untuk programmer karena: <br> - Dapat menjalankan multiple aplikasi dan service tanpa performa menurun <br> - Bahkan di hardware lama, Linux tetap responsif <br> - Lebih banyak resource tersedia untuk proses development dan testing <br> - Perfect untuk server development dengan keterbatasan resource
+Linux dikenal sebagai sistem operasi yang sangat ringan dan efisien. Karakteristik ini penting untuk programmer karena:  
+- Dapat menjalankan multiple aplikasi dan service tanpa performa menurun  
+- Bahkan di hardware lama, Linux tetap responsif  
+- Lebih banyak resource tersedia untuk proses development dan testing  
+- Perfect untuk server development dengan keterbatasan resource
 
 ### 4. **Keamanan Superior**
 
-Security bukan hanya concern bagi sysadmin, tetapi juga programmer. Linux menawarkan keamanan yang lebih baik melalui: <br> - Sistem permission yang ketat (permission berbasis user, group, dan others) <br> - Virus dan malware jarang menyerang Linux karena popularitasnya yang relatif rendah di desktop <br> - Komunitas pengembang aktif yang terus mengidentifikasi dan memperbaiki vulnerability <br> - Default security stance yang lebih konservatif
+Security bukan hanya concern bagi sysadmin, tetapi juga programmer. Linux menawarkan keamanan yang lebih baik melalui:  
+- Sistem permission yang ketat (permission berbasis user, group, dan others)  
+- Virus dan malware jarang menyerang Linux karena popularitasnya yang relatif rendah di desktop  
+- Komunitas pengembang aktif yang terus mengidentifikasi dan memperbaiki vulnerability  
+- Default security stance yang lebih konservatif
 
 ### 5. **Tools dan Ecosystem yang Powerful**
 
-Linux dilengkapi dengan tools development yang sangat powerful, semuanya gratis dan open source: <br> - **Terminal/Shell:** Bash shell yang powerful untuk automation dan scripting <br> - **Version Control:** Git, native support <br> - **Package Manager:** Instalasi library dan tools dengan satu command <br> - **Development Tools:** Compiler, debugger, profiler, semua tersedia di repository <br> - **Virtualization & Containerization:** Docker, Kubernetes, mudah dijalankan di Linux
+Linux dilengkapi dengan tools development yang sangat powerful, semuanya gratis dan open source:  
+- **Terminal/Shell:** Bash shell yang powerful untuk automation dan scripting  
+- **Version Control:** Git, native support  
+- **Package Manager:** Instalasi library dan tools dengan satu command  
+- **Development Tools:** Compiler, debugger, profiler, semua tersedia di repository  
+- **Virtualization & Containerization:** Docker, Kubernetes, mudah dijalankan di Linux
 
 ### 1.3 Keuntungan Spesifik untuk Setiap Tipe Programmer
 
-**Web Developer:** <br> - Seamless development environment (Linux lokal = Linux server) <br> - Tools seperti Node.js, Python, Ruby, PHP berjalan optimal <br> - Testing dengan Docker dan containerization sangat mudah
+**Web Developer:**  
+- Seamless development environment (Linux lokal = Linux server)  
+- Tools seperti Node.js, Python, Ruby, PHP berjalan optimal  
+- Testing dengan Docker dan containerization sangat mudah
 
-**Backend Developer:** <br> - Native support untuk database server (MySQL, PostgreSQL, MongoDB) <br> - Microservices architecture dengan Docker/Kubernetes <br> - API development dengan full control atas system resources
+**Backend Developer:**  
+- Native support untuk database server (MySQL, PostgreSQL, MongoDB)  
+- Microservices architecture dengan Docker/Kubernetes  
+- API development dengan full control atas system resources
 
-**DevOps Engineer:** <br> - Linux adalah native environment untuk DevOps tools (Kubernetes, Terraform, Ansible) <br> - Automation scripts dengan Bash/Python <br> - Infrastructure as Code (IaC) development
+**DevOps Engineer:**  
+- Linux adalah native environment untuk DevOps tools (Kubernetes, Terraform, Ansible)  
+- Automation scripts dengan Bash/Python  
+- Infrastructure as Code (IaC) development
 
-**System Administrator / Cloud Engineer:** <br> - Management server yang lebih intuitif <br> - Automation task dengan cron dan shell scripts <br> - Monitoring dan troubleshooting dengan native tools
+**System Administrator / Cloud Engineer:**  
+- Management server yang lebih intuitif  
+- Automation task dengan cron dan shell scripts  
+- Monitoring dan troubleshooting dengan native tools
 
 
 ---
@@ -81,9 +115,17 @@ Berbeda dengan programmer yang bisa memilih, **untuk menjadi system administrato
 - Cloud infrastructure (AWS, GCP, Azure) mayoritas menggunakan Linux instances
 ### 2. **Kontrol Penuh vs Abstraksi GUI**
 
-Seorang sysadmin yang hanya mengandalkan GUI panel seperti cPanel atau Plesk sangat terbatas. Panel-panel tersebut memang user-friendly, tetapi: <br> - Hanya menyediakan fitur-fitur standar <br> - Ketika ada problem tidak standar, sysadmin tanpa skill Linux akan stuck <br> - Tidak ada cara untuk troubleshoot di balik layar <br> - Tidak bisa melakukan custom configuration yang kompleks
+Seorang sysadmin yang hanya mengandalkan GUI panel seperti cPanel atau Plesk sangat terbatas. Panel-panel tersebut memang user-friendly, tetapi:  
+- Hanya menyediakan fitur-fitur standar  
+- Ketika ada problem tidak standar, sysadmin tanpa skill Linux akan stuck  
+- Tidak ada cara untuk troubleshoot di balik layar  
+- Tidak bisa melakukan custom configuration yang kompleks
 
-**Contoh Real-world:** Ketika sebuah service error, seorang sysadmin yang paham Linux bisa langsung: <br> - Check log file untuk mendapat error message yang detail <br> - Trace proses yang sedang berjalan <br> - Modify konfigurasi di level sistem <br> - Create custom script untuk automation troubleshooting
+**Contoh Real-world:** Ketika sebuah service error, seorang sysadmin yang paham Linux bisa langsung:  
+- Check log file untuk mendapat error message yang detail  
+- Trace proses yang sedang berjalan  
+- Modify konfigurasi di level sistem  
+- Create custom script untuk automation troubleshooting
 
 ### 3. **Stabilitas dan Uptime yang Superior**
 
@@ -93,33 +135,92 @@ Linux servers terkenal dapat berjalan selama berbulan-bulan atau bahkan bertahun
 
 ### **Level 1: Fundamental (Bulan 1-2)**
 
-**1. Navigasi Filesystem:** <br> - `pwd` - print working directory <br> - `cd` - change directory <br> - `ls` - list files <br> - `mkdir` - create directory <br> - `cp`, `mv`, `rm` - copy, move, remove files <br> - Pemahaman tentang path absolut vs relatif <br> - Pemahaman tentang struktur direktori Linux (/etc, /var, /home, /usr, dll)
+**1. Navigasi Filesystem:**  
+- `pwd` - print working directory  
+- `cd` - change directory  
+- `ls` - list files  
+- `mkdir` - create directory  
+- `cp`, `mv`, `rm` - copy, move, remove files  
+- Pemahaman tentang path absolut vs relatif  
+- Pemahaman tentang struktur direktori Linux (/etc, /var, /home, /usr, dll)
 
-**2. Permission dan Ownership:** <br> - Memahami konsep permission (read-r, write-w, execute-x) <br> - Permission bits untuk user, group, others <br> - `chmod` - change file mode (permission) <br> - `chown` - change owner <br> - `chgrp` - change group <br> - Konsep setuid, setgid, sticky bit
+**2. Permission dan Ownership:**  
+- Memahami konsep permission (read-r, write-w, execute-x)  
+- Permission bits untuk user, group, others  
+- `chmod` - change file mode (permission)  
+- `chown` - change owner  
+- `chgrp` - change group  
+- Konsep setuid, setgid, sticky bit
 
-**3. User dan Group Management:** <br> - `useradd`, `userdel`, `usermod` - manage user accounts <br> - `groupadd`, `groupdel`, `groupmod` - manage groups <br> - `/etc/passwd`, `/etc/shadow`, `/etc/group` - understand these critical files <br> - `sudo` - super user do (menjalankan command dengan privilege lebih tinggi) <br> - `su` - switch user
+**3. User dan Group Management:**  
+- `useradd`, `userdel`, `usermod` - manage user accounts  
+- `groupadd`, `groupdel`, `groupmod` - manage groups  
+- `/etc/passwd`, `/etc/shadow`, `/etc/group` - understand these critical files  
+- `sudo` - super user do (menjalankan command dengan privilege lebih tinggi)  
+- `su` - switch user
 
-**4. File Editing:** <br> - `nano` - simple text editor (recommended for beginners) <br> - `vi/vim` - advanced text editor (industry standard) <br> - Understanding configuration files yang perlu di-edit
+**4. File Editing:**  
+- `nano` - simple text editor (recommended for beginners)  
+- `vi/vim` - advanced text editor (industry standard)  
+- Understanding configuration files yang perlu di-edit
 
 ### **Level 2: Intermediate (Bulan 3-4)**
 
-**1. System Monitoring dan Process Management:** <br> - `ps` - list running processes <br> - `top` - real-time process monitoring <br> - `htop` - enhanced top dengan interface yang lebih user-friendly <br> - `kill` - terminate processes <br> - `systemctl` - manage services (start, stop, restart, status) <br> - Understanding daemon dan service concepts
+**1. System Monitoring dan Process Management:**  
+- `ps` - list running processes  
+- `top` - real-time process monitoring  
+- `htop` - enhanced top dengan interface yang lebih user-friendly  
+- `kill` - terminate processes  
+- `systemctl` - manage services (start, stop, restart, status)  
+- Understanding daemon dan service concepts
 
-**2. Package Management:** <br> - Memahami package manager konsep <br> - `apt/apt-get` (untuk Debian/Ubuntu) <br> - `yum/dnf` (untuk CentOS/RHEL/Fedora/AlmaLinux) <br> - Update system dan install software <br> - Dependency management
+**2. Package Management:**  
+- Memahami package manager konsep  
+- `apt/apt-get` (untuk Debian/Ubuntu)  
+- `yum/dnf` (untuk CentOS/RHEL/Fedora/AlmaLinux)  
+- Update system dan install software  
+- Dependency management
 
-**3. Basic Networking:** <br> - `ifconfig` atau `ip` - configure network interfaces <br> - `ping` - test connectivity <br> - `netstat` atau `ss` - check network connections <br> - `traceroute` - trace network path <br> - DNS concept dan `/etc/resolv.conf` <br> - Basic firewall (ufw untuk Ubuntu, firewall untuk CentOS)
+**3. Basic Networking:**  
+- `ifconfig` atau `ip` - configure network interfaces  
+- `ping` - test connectivity  
+- `netstat` atau `ss` - check network connections  
+- `traceroute` - trace network path  
+- DNS concept dan `/etc/resolv.conf`  
+- Basic firewall (ufw untuk Ubuntu, firewall untuk CentOS)
 
-**4. Storage dan Backup:** <br> - Understanding partitions dan mounting <br> - `df` dan `du` - disk usage <br> - `tar` - archive files <br> - Basic backup strategy
+**4. Storage dan Backup:**  
+- Understanding partitions dan mounting  
+- `df` dan `du` - disk usage  
+- `tar` - archive files  
+- Basic backup strategy
 
 ### **Level 3: Advanced (Bulan 5-6)**
 
-**1. System Services dan Web Servers:** <br> - Apache (httpd) - traditional web server <br> - Nginx - modern, lightweight web server <br> - MySQL/MariaDB - database <br> - Memahami configuration file structure <br> - Virtual hosts dan SSL/TLS
+**1. System Services dan Web Servers:**  
+- Apache (httpd) - traditional web server  
+- Nginx - modern, lightweight web server  
+- MySQL/MariaDB - database  
+- Memahami configuration file structure  
+- Virtual hosts dan SSL/TLS
 
-**2. Shell Scripting:** <br> - Bash script basics <br> - Variables, loops, conditionals <br> - Automation tasks <br> - Cron jobs untuk scheduled tasks
+**2. Shell Scripting:**  
+- Bash script basics  
+- Variables, loops, conditionals  
+- Automation tasks  
+- Cron jobs untuk scheduled tasks
 
-**3. Security dan Access Control:** <br> - SELinux (Security-Enhanced Linux) untuk CentOS/Fedora <br> - SSH key-based authentication <br> - Firewall rules (iptables, firewall, ufw) <br> - Security best practices
+**3. Security dan Access Control:**  
+- SELinux (Security-Enhanced Linux) untuk CentOS/Fedora  
+- SSH key-based authentication  
+- Firewall rules (iptables, firewall, ufw)  
+- Security best practices
 
-**4. Monitoring dan Logging:** <br> - System logs (`/var/log/`) <br> - `journalctl` untuk systemd logs <br> - `tail`, `grep` untuk log analysis <br> - Monitoring tools (Nagios, Zabbix, dll)
+**4. Monitoring dan Logging:**  
+- System logs (`/var/log/`)  
+- `journalctl` untuk systemd logs  
+- `tail`, `grep` untuk log analysis  
+- Monitoring tools (Nagios, Zabbix, dll)
 
 ### 2.3 Teknis Detail: Mengapa Linux Server Adalah Prerequisite
 
@@ -162,9 +263,11 @@ Tanpa Linux skill: Tidak bisa diagnosa, buy bigger server (waste of money)
 
 ### 3.1 Pengenalan WSL (Windows Subsystem for Linux)
 
-**Apa itu WSL?** <br> WSL adalah fitur bawaan Windows yang memungkinkan pengguna menjalankan distribusi Linux secara langsung di dalam Windows, tanpa perlu dual-boot atau virtual machine.
+**Apa itu WSL?**  
+WSL adalah fitur bawaan Windows yang memungkinkan pengguna menjalankan distribusi Linux secara langsung di dalam Windows, tanpa perlu dual-boot atau virtual machine.
 
-**Analogi:** <br> Bayangkan WSL sebagai “Linux dalam botol” yang ada di dalam Windows. Anda bisa mengakses Linux commands, file system, dan applications sambil tetap menggunakan Windows untuk GUI applications.
+**Analogi:**  
+Bayangkan WSL sebagai “Linux dalam botol” yang ada di dalam Windows. Anda bisa mengakses Linux commands, file system, dan applications sambil tetap menggunakan Windows untuk GUI applications.
 
 ### 3.2 Perbedaan WSL 1, WSL 2, dan Native Linux
 
@@ -204,21 +307,46 @@ Tanpa Linux skill: Tidak bisa diagnosa, buy bigger server (waste of money)
 
 ### 3.3 Kapan Menggunakan Setiap Opsi?
 
-**Gunakan WSL 1 jika:** <br> - Anda hanya butuh akses Linux commands untuk development <br> - Anda sering bekerja dengan Windows files <br> - System resources sangat terbatas <br> - Tidak membutuhkan Docker
+**Gunakan WSL 1 jika:**  
+- Anda hanya butuh akses Linux commands untuk development  
+- Anda sering bekerja dengan Windows files  
+- System resources sangat terbatas  
+- Tidak membutuhkan Docker
 
-**Gunakan WSL 2 jika:** <br> - Anda development menggunakan Docker/containers <br> - Anda membutuhkan full Linux compatibility <br> - Performance Linux file operations penting <br> - Anda ingin testing aplikasi secara realistic sebelum deploy
+**Gunakan WSL 2 jika:**  
+- Anda development menggunakan Docker/containers  
+- Anda membutuhkan full Linux compatibility  
+- Performance Linux file operations penting  
+- Anda ingin testing aplikasi secara realistic sebelum deploy
 
-**Gunakan Native Linux jika:** <br> - Anda running production server <br> - Anda membutuhkan maximum performance <br> - Hardware-specific tasks (GPU, USB, network drivers khusus) <br> - Anda tidak perlu Windows aplikasi
+**Gunakan Native Linux jika:**  
+- Anda running production server  
+- Anda membutuhkan maximum performance  
+- Hardware-specific tasks (GPU, USB, network drivers khusus)  
+- Anda tidak perlu Windows aplikasi
 
 ### 3.4 Keuntungan WSL untuk Developer Windows
 
-**1. Tidak perlu Dual Boot atau VM Complexity** <br> - Sebelum WSL: Developer harus memilih antara Windows OR Linux, atau install dual OS <br> - Dengan WSL: One OS (Windows) dengan Linux environment built-in <br> - Zero boot time, no resource hogging
+**1. Tidak perlu Dual Boot atau VM Complexity**  
+- Sebelum WSL: Developer harus memilih antara Windows OR Linux, atau install dual OS  
+- Dengan WSL: One OS (Windows) dengan Linux environment built-in  
+- Zero boot time, no resource hogging
 
-**2. Seamless File System Access** <br> - Akses Windows files dari Linux: `/mnt/c/`, `/mnt/d/`, dll <br> - Edit Linux files dari Windows text editor <br> - Git dari Windows mengakses Linux files tanpa issue <br> - Docker containers akses Windows files
+**2. Seamless File System Access**  
+- Akses Windows files dari Linux: `/mnt/c/`, `/mnt/d/`, dll  
+- Edit Linux files dari Windows text editor  
+- Git dari Windows mengakses Linux files tanpa issue  
+- Docker containers akses Windows files
 
-**3. IDE Integration (VSCode)** <br> - VSCode Windows terhubung dengan WSL environment <br> - Code runs in Linux environment tapi editor di Windows <br> - Extensions run in WSL dengan konteks yang correct <br> - IntelliSense, debugging, semua working correctly
+**3. IDE Integration (VSCode)**  
+- VSCode Windows terhubung dengan WSL environment  
+- Code runs in Linux environment tapi editor di Windows  
+- Extensions run in WSL dengan konteks yang correct  
+- IntelliSense, debugging, semua working correctly
 
-**4. Docker Experience Sama dengan Linux** <br> - Setelah WSL 2, Docker Desktop di Windows memberikan experience yang sama dengan native Linux <br> - Containers berjalan dengan performance mendekati native
+**4. Docker Experience Sama dengan Linux**  
+- Setelah WSL 2, Docker Desktop di Windows memberikan experience yang sama dengan native Linux  
+- Containers berjalan dengan performance mendekati native
 
 
 ---
@@ -227,9 +355,16 @@ Tanpa Linux skill: Tidak bisa diagnosa, buy bigger server (waste of money)
 
 ### 4.1 Prasyarat Instalasi WSL
 
-**System Requirements:** <br> - Windows 10 (Build 2004) atau Windows 11 <br> - 4GB RAM minimum (8GB+ recommended) <br> - 20GB free disk space <br> - Virtualization enabled di BIOS (untuk WSL 2)
+**System Requirements:**  
+- Windows 10 (Build 2004) atau Windows 11  
+- 4GB RAM minimum (8GB+ recommended)  
+- 20GB free disk space  
+- Virtualization enabled di BIOS (untuk WSL 2)
 
-**Check Windows Version:** <br> 1. Buka Settings (Win + I) <br> 2. Pergi ke System → About <br> 3. Lihat OS Build number (harus ≥ 2004)
+**Check Windows Version:**  
+1. Buka Settings (Win + I)  
+2. Pergi ke System → About  
+3. Lihat OS Build number (harus ≥ 2004)
 
 ### 4.2 Step-by-Step: Instalasi WSL 2 dengan AlmaLinux
 
@@ -241,7 +376,10 @@ Buka PowerShell sebagai Administrator dan jalankan:
 wsl --install --no-distribution
 ```
 
-Command ini akan: <br> - Enable WSL feature <br> - Install Virtual Machine Platform <br> - Set WSL 2 sebagai default version
+Command ini akan:  
+- Enable WSL feature  
+- Install Virtual Machine Platform  
+- Set WSL 2 sebagai default version
 
 Setelah command selesai, **restart komputer.**
 
@@ -288,7 +426,10 @@ AlmaLinux tersedia dalam beberapa versi. AlmaLinux 9 adalah versi terbaru dan re
 wsl --install AlmaLinux-9
 ```
 
-Proses ini akan: <br> - Download AlmaLinux 9 image (±500-700MB, tergantung koneksi) <br> - Extract ke system <br> - Create WSL distribution
+Proses ini akan:  
+- Download AlmaLinux 9 image (±500-700MB, tergantung koneksi)  
+- Extract ke system  
+- Create WSL distribution
 
 **Waktu instalasi:** 5-15 menit tergantung koneksi internet
 
@@ -307,7 +448,11 @@ Enter new UNIX password: (type password, won't be visible)
 Retype new UNIX password: (confirm password)
 ```
 
-**Tips Penting:** <br> - Jangan lupa password Anda! Tidak ada “forgot password” option <br> - Username harus lowercase <br> - Password minimal 4 karakter <br> - Sebaiknya gunakan strong password
+**Tips Penting:**  
+- Jangan lupa password Anda! Tidak ada “forgot password” option  
+- Username harus lowercase  
+- Password minimal 4 karakter  
+- Sebaiknya gunakan strong password
 
 Setelah sukses, Anda akan melihat prompt:
 
@@ -335,7 +480,10 @@ VERSION="9.0"
 
 Ada beberapa cara untuk membuka AlmaLinux:
 
-**Cara 1: Dari Windows Terminal** <br> 1. Buka Windows Terminal <br> 2. Klik dropdown arrow (▼) di tab bar <br> 3. Pilih “AlmaLinux-9”
+**Cara 1: Dari Windows Terminal**  
+1. Buka Windows Terminal  
+2. Klik dropdown arrow (▼) di tab bar  
+3. Pilih “AlmaLinux-9”
 
 **Cara 2: Dari PowerShell/CMD**
 
@@ -343,7 +491,9 @@ Ada beberapa cara untuk membuka AlmaLinux:
 wsl -d AlmaLinux-9
 ```
 
-**Cara 3: Dari Windows Start Menu** <br> - Cari “AlmaLinux” di Start Menu <br> - Click untuk membuka
+**Cara 3: Dari Windows Start Menu**  
+- Cari “AlmaLinux” di Start Menu  
+- Click untuk membuka
 
 ### 4.4 Update Sistem Setelah Instalasi
 
@@ -353,7 +503,10 @@ Setelah first login, update sistem untuk mendapatkan patch keamanan terbaru:
 sudo dnf update -y
 ```
 
-Masukkan password saat diminta. Command ini akan: <br> - Download package updates <br> - Install updates <br> - Proses memakan waktu 5-10 menit
+Masukkan password saat diminta. Command ini akan:  
+- Download package updates  
+- Install updates  
+- Proses memakan waktu 5-10 menit
 
 ### 4.5 Menggunakan AlmaLinux di WSL
 
@@ -391,9 +544,16 @@ python3 --version
 
 ### 5.1 Mengapa Integrasi WSL dengan VSCode Penting?
 
-Sebagai developer, Anda ingin: <br> - Code editor di Windows (VSCode GUI) <br> - Development environment di Linux (WSL) <br> - Seamless integration antara keduanya
+Sebagai developer, Anda ingin:  
+- Code editor di Windows (VSCode GUI)  
+- Development environment di Linux (WSL)  
+- Seamless integration antara keduanya
 
-Integrasi WSL + VSCode memberikan Anda: <br> - Modern code editor (VSCode) <br> - Linux development environment <br> - Full debugging experience <br> - Extensions yang berjalan di Linux context
+Integrasi WSL + VSCode memberikan Anda:  
+- Modern code editor (VSCode)  
+- Linux development environment  
+- Full debugging experience  
+- Extensions yang berjalan di Linux context
 
 ### 5.2 Step-by-Step: Setup VSCode dengan WSL
 
@@ -429,11 +589,16 @@ cd ~/my-project
 code .
 ```
 
-VSCode akan automatically: <br> - Detect WSL environment <br> - Download VSCode Server ke WSL <br> - Open project di VSCode dengan WSL context
+VSCode akan automatically:  
+- Detect WSL environment  
+- Download VSCode Server ke WSL  
+- Open project di VSCode dengan WSL context
 
 ### 5.3 VSCode WSL Indicator
 
-Setelah berhasil terhubung dengan WSL, Anda akan melihat: <br> - Di bottom-left corner: **“WSL: AlmaLinux-9”** (hijau) <br> - Ini menunjukkan VSCode sedang menggunakan WSL environment
+Setelah berhasil terhubung dengan WSL, Anda akan melihat:  
+- Di bottom-left corner: **“WSL: AlmaLinux-9”** (hijau)  
+- Ini menunjukkan VSCode sedang menggunakan WSL environment
 
 ### 5.4 Workflow Development dengan VSCode + WSL
 
@@ -477,15 +642,32 @@ python3 app.py
 
 Beberapa extensions yang recommended untuk install:
 
-**Untuk semua developer:** <br> - Remote - WSL (sudah installed) <br> - Git Graph <br> - GitLens <br> - Prettier (code formatter) <br> - ESLint
+**Untuk semua developer:**  
+- Remote - WSL (sudah installed)  
+- Git Graph  
+- GitLens  
+- Prettier (code formatter)  
+- ESLint
 
-**Untuk Python developer:** <br> - Python <br> - Pylance <br> - Python Debugger
+**Untuk Python developer:**  
+- Python  
+- Pylance  
+- Python Debugger
 
-**Untuk Node.js developer:** <br> - Node.js Extension Pack <br> - npm
+**Untuk Node.js developer:**  
+- Node.js Extension Pack  
+- npm
 
-**Untuk Web developer:** <br> - Live Server <br> - Thunder Client (API testing) <br> - HTML CSS Support
+**Untuk Web developer:**  
+- Live Server  
+- Thunder Client (API testing)  
+- HTML CSS Support
 
-**Install extensions:** <br> 1. Buka Extensions di VSCode <br> 2. Search extension name <br> 3. Install <br> 4. VSCode akan otomatis install di WSL environment
+**Install extensions:**  
+1. Buka Extensions di VSCode  
+2. Search extension name  
+3. Install  
+4. VSCode akan otomatis install di WSL environment
 
 ### 5.6 Editing Windows Files dari WSL VSCode
 
@@ -502,7 +684,10 @@ cd /mnt/d/
 cd /mnt/c/Users/YourUsername/Documents
 ```
 
-Dari VSCode, Anda bisa: <br> - Edit Windows files menggunakan Linux tools <br> - Git clone repo ke Windows folder tapi edit via WSL environment <br> - Seamless workflow antara Windows dan Linux
+Dari VSCode, Anda bisa:  
+- Edit Windows files menggunakan Linux tools  
+- Git clone repo ke Windows folder tapi edit via WSL environment  
+- Seamless workflow antara Windows dan Linux
 
 
 ---
@@ -511,13 +696,26 @@ Dari VSCode, Anda bisa: <br> - Edit Windows files menggunakan Linux tools <br> -
 
 ### 6.1 Timeline Pembelajaran (3-6 Bulan)
 
-**Bulan 1: Fundamental Linux Commands** <br> - Minggu 1-2: Filesystem navigation, file operations <br> - Minggu 3: Permissions dan user management <br> - Minggu 4: Text editing dan basic scripting
+**Bulan 1: Fundamental Linux Commands**  
+- Minggu 1-2: Filesystem navigation, file operations  
+- Minggu 3: Permissions dan user management  
+- Minggu 4: Text editing dan basic scripting
 
-**Bulan 2: System Administration Basics** <br> - Minggu 1-2: Package management, service management <br> - Minggu 3: Networking basics <br> - Minggu 4: Monitoring dan troubleshooting
+**Bulan 2: System Administration Basics**  
+- Minggu 1-2: Package management, service management  
+- Minggu 3: Networking basics  
+- Minggu 4: Monitoring dan troubleshooting
 
-**Bulan 3: Server Configuration** <br> - Minggu 1-2: Web server (Apache/Nginx) <br> - Minggu 3: Database server basics <br> - Minggu 4: Security dan firewall
+**Bulan 3: Server Configuration**  
+- Minggu 1-2: Web server (Apache/Nginx)  
+- Minggu 3: Database server basics  
+- Minggu 4: Security dan firewall
 
-**Bulan 4-6: Advanced Topics** <br> - Automation (shell scripting, cron) <br> - Container (Docker basics) <br> - Cloud deployment <br> - Security hardening
+**Bulan 4-6: Advanced Topics**  
+- Automation (shell scripting, cron)  
+- Container (Docker basics)  
+- Cloud deployment  
+- Security hardening
 
 ### 6.2 Praktik Terbaik Pembelajaran Linux
 
