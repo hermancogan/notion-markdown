@@ -5,7 +5,7 @@ excerpt: "BAGIAN 1: MENGAPA HARUS BELAJAR LINUX? 1.1 Pengantar: Linux untuk Prog
 categories: ["Linux", "Wiki"]
 tags: []
 created_time: "20.29 27-01-26"
-last_edited_time: "2026-01-27T12:31:00.000Z"
+last_edited_time: "2026-01-27T12:54:00.000Z"
 url: "https://www.notion.so/panduan-lengkap-belajar-linux-wsl-dan-administrasi-server-2f5f2e85b5918122a173ce7e060f11eb"
 author: ["Sultan"]
 contributor: ["Goks"]
@@ -108,11 +108,11 @@ Berbeda dengan programmer yang bisa memilih, **untuk menjadi system administrato
 
 **Alasan Fundamental:**
 
-### 1. **Server Berjalan pada Linux**
+### 1. Server Berjalan pada Linux
 
-- 70% dari semua server internet menggunakan Linux
-- Hampir semua layanan digital modern (hosting, email, database, DNS, web) berjalan di atas Linux
-- Cloud infrastructure (AWS, GCP, Azure) mayoritas menggunakan Linux instances
+  - 70% dari semua server internet menggunakan Linux
+  - Hampir semua layanan digital modern (hosting, email, database, DNS, web) berjalan di atas Linux
+  - Cloud infrastructure (AWS, GCP, Azure) mayoritas menggunakan Linux instances
 ### 2. **Kontrol Penuh vs Abstraksi GUI**
 
 Seorang sysadmin yang hanya mengandalkan GUI panel seperti cPanel atau Plesk sangat terbatas. Panel-panel tersebut memang user-friendly, tetapi:  
