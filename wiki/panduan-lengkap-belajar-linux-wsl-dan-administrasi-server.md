@@ -5,7 +5,7 @@ excerpt: "BAGIAN 1: MENGAPA HARUS BELAJAR LINUX? 1.1 Pengantar: Linux untuk Prog
 categories: ["Linux", "Wiki"]
 tags: []
 created_time: "20.29 27-01-26"
-last_edited_time: "2026-01-27T13:53:00.000Z"
+last_edited_time: "2026-01-27T14:00:00.000Z"
 url: "https://www.notion.so/panduan-lengkap-belajar-linux-wsl-dan-administrasi-server-2f5f2e85b5918122a173ce7e060f11eb"
 author: ["Sultan"]
 contributor: ["Goks"]
@@ -133,7 +133,7 @@ Linux servers terkenal dapat berjalan selama berbulan-bulan atau bahkan bertahun
 
 ### 2.2 Skill Dasar Linux yang Harus Dikuasai Sysadmin Pemula
 
-**####Level 1: Fundamental (Bulan 1-2)**
+#### Level 1: Fundamental (Bulan 1-2)
 
 **1. Navigasi Filesystem:**  
 - `pwd` - print working directory  
@@ -164,7 +164,7 @@ Linux servers terkenal dapat berjalan selama berbulan-bulan atau bahkan bertahun
 - `vi/vim` - advanced text editor (industry standard)  
 - Understanding configuration files yang perlu di-edit
 
-**####Level 2: Intermediate (Bulan 3-4)**
+#### Level 2: Intermediate (Bulan 3-4)
 
 **1. System Monitoring dan Process Management:**  
 - `ps` - list running processes  
@@ -195,7 +195,7 @@ Linux servers terkenal dapat berjalan selama berbulan-bulan atau bahkan bertahun
 - `tar` - archive files  
 - Basic backup strategy
 
-**####Level 3: Advanced (Bulan 5-6)**
+#### Level 3: Advanced (Bulan 5-6)
 
 **1. System Services dan Web Servers:**  
 - Apache (httpd) - traditional web server  
