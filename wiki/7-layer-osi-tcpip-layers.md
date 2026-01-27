@@ -571,13 +571,65 @@ Seperti toko yang melayani pelanggan dengan berbagai layanan: kasir, sistem pemb
 **Melalui OSI Model:**
 
 ```plain text
-
+PENGIRIM (Komputer Kamu)
+↓
+[7] Application Layer: Gmail membuat email dengan konten "Halo teman!"
+↓
+[6] Presentation Layer: Email dikompres dan dienkripsi (jadi aman)
+↓
+[5] Session Layer: Koneksi dengan server Gmail dibangun
+↓
+[4] Transport Layer: Email dipecah menjadi segment dan ditambah port 587 (SMTP)
+↓
+[3] Network Layer: Segment dikemas menjadi packet dengan IP Gmail (142.251.x.x)
+↓
+[2] Data Link Layer: Packet dibungkus menjadi frame dengan MAC Address router lokal
+↓
+[1] Physical Layer: Frame diubah menjadi sinyal listrik dan dikirim melalui kabel internet
+↓
+INTERNET (banyak router mencari jalur terbaik)
+↓
+[1] Physical Layer (Penerima): Sinyal listrik diterima
+↓
+[2] Data Link Layer: Frame diperiksa, error diperbaiki
+↓
+[3] Network Layer: IP destination dicek, paket diteruskan ke server Gmail berikutnya
+↓
+[4] Transport Layer: Segment dikumpulkan, port dicek
+↓
+[5] Session Layer: Koneksi diverifikasi dan dipertahankan
+↓
+[6] Presentation Layer: Email didekripsi dan dekompresi
+↓
+[7] Application Layer: Email ditampilkan di inbox Gmail
+↓
+PENERIMA (Email diterima!)
 ```
 
 **Melalui TCP/IP Model:**
 
 ```plain text
-
+PENGIRIM
+↓
+[4] Application Layer: Gmail membuat email, mengenkripsi, memilih TCP
+↓
+[3] Transport Layer: Email menjadi TCP segment dengan port 587
+↓
+[2] Internet Layer: Segment menjadi packet dengan IP tujuan
+↓
+[1] Network Access Layer: Packet menjadi frame dan dikirim via Ethernet/WiFi
+↓
+INTERNET (routing terjadi di Internet Layer)
+↓
+[1] Network Access Layer: Frame diterima
+↓
+[2] Internet Layer: Packet diteruskan ke hop berikutnya
+↓
+[3] Transport Layer: TCP mengecek error dan reassembly
+↓
+[4] Application Layer: Email didisplay di Gmail
+↓
+PENERIMA (Email diterima!)
 ```
 
 ### 4.2 Istilah yang Penting Diingat
@@ -629,7 +681,47 @@ Ketika jaringan kamu bermasalah, gunakan OSI untuk mencari tahu layer mana yang 
 **Ketika Kamu Membuka YouTube:**
 
 ```plain text
+1. Kamu mengetik "youtube.com" di address bar
 
+2. LAYER 7 (Application):
+   - Browser mengirim HTTP REQUEST ke server YouTube
+   - Protocol: HTTP/HTTPS
+   - Port: 443 (HTTPS)
+
+3. LAYER 6 (Presentation):
+   - Data dienkripsi menggunakan TLS/SSL
+   - Jadi data "youtube.com" aman saat traveling
+
+4. LAYER 5 (Session):
+   - Session dibuka antara browser dan server YouTube
+   - Login session dimulai
+
+5. LAYER 4 (Transport):
+   - Menggunakan TCP (karena butuh andal)
+   - Data dipecah menjadi segment
+   - Port destination: 443
+
+6. LAYER 3 (Network):
+   - IP address YouTube dicari (via DNS) → misal 142.251.x.x
+   - Router menentukan jalur menuju IP tersebut
+
+7. LAYER 2 (Data Link):
+   - Frame dibuat dengan MAC address router lokal
+   - Error checking dilakukan
+
+8. LAYER 1 (Physical):
+   - Sinyal dikirim via Ethernet/WiFi
+
+9. SEBALIKNYA (di YouTube Server):
+   - Sever YouTube menerima request
+   - Respons berisi video, CSS, JavaScript dikirim balik
+   - Proses 1-8 diulang dalam arah sebaliknya
+
+10. BROWSER MENAMPILKAN:
+    - HTML diinterpretasi
+    - CSS membuat tampilan bagus
+    - JavaScript membuat interaktif
+    - Video dimulai streaming
 ```
 
 
